@@ -2,7 +2,11 @@
 
 Lottery using Smart Contracts
 
-# Requirements
+Main functionality:
+
+- Users can enter lottery with ETH/USD
+- An admin will choose when the lottery is over
+- The lottery select a random winner
 
 - Python 3
 - NodeJS ^12.0
