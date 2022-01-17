@@ -8,12 +8,14 @@ Main functionality:
 - An admin will choose when the lottery is over
 - The lottery select a random winner
 
+## Requirements
+
 - Python 3
 - NodeJS ^12.0
 - Infura project id
 - Ether Scan Token
 
-# Env Setup
+## Env Setup
 
 Create python env
 
@@ -44,6 +46,6 @@ brownie accounts new lottery-account
 
 Open `.vscode/settings.json` and change `<brownie-folder-path>` with the correct absolute path to the `.brownie` folder in your machine.
 
-# Deployment
+## Deployment
 
 **TODO**
