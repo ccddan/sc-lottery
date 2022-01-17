@@ -8,6 +8,12 @@ Main functionality:
 - An admin will choose when the lottery is over
 - The lottery select a random winner
 
+**Table Of Content**
+
+- [Requirements](#requirements)
+- [Env Setup](#env-setup)
+- [Deployment](#deployment)
+
 ## Requirements
 
 - Python 3
