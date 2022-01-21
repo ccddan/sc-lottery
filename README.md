@@ -21,7 +21,7 @@ Main functionality:
 - Infura project id
 - Ether Scan Token
 
-## Env Setup
+## Development Env Setup
 
 Create python env
 
