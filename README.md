@@ -26,7 +26,8 @@ Main functionality:
 Create python env
 
 ```bash
-$ python3 -m venv .env-brownie
+$ python3 -m venv .env-lottery
+$ source .env-lottery
 ```
 
 Install Ganache CLI
